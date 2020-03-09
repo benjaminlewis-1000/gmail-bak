@@ -1,5 +1,7 @@
 *.eml
-
+*.jpg
+*.jpeg
+life_updates/
 /TEST_CREDS.TXT
 
 *.pyc
